@@ -1,0 +1,3 @@
+== README
+
+This blog was created using Ruby on Rails
